@@ -8,7 +8,7 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/Sancho808/ticket-lifecycle)
   - <b>Microsoft Azure</b>
                                                                                                                                                                                                             
-  -  [windows:RDP](https://github.com/Sancho808/osticket-prereqs)                                                                                                                
+  -  [windows:RDP](https://github.com/Sancho808/post-install-config)                                                                                                                
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Sancho808/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Sancho808/azure-network-protocols)
 
